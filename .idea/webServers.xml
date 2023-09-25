@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1bf29a02-e90c-44d3-b0c8-d8b5c760995e" name="lms" url="http://66.29.135.134">
+        <fileTransfer rootFolder="/root" accessType="SFTP" host="66.29.135.134" port="22" sshConfigId="ee8cd163-6208-4cb3-8eae-5fa0bbceb0e7" sshConfig="root@66.29.135.134:22 password">
+          <advancedOptions>
+            <advancedOptions keepAliveTimeout="0" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
